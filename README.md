@@ -1,1 +1,1 @@
-# Some basic Java apps
+# Various Java apps to help understand syntax
